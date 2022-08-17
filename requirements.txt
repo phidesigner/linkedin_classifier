@@ -1,5 +1,4 @@
 pathlib
-os
 PIL
 voila
 fastai>=2

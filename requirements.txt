@@ -1,6 +1,5 @@
-pathlib
-voila
-fastai>=2
-pillow<7
-packaging
-ipywidgets==7.5.1
+pathlib==1.0.1
+voila==0.3.6
+fastai==2.7.9
+packaging==21.3
+ipywidgets==7.6.5
